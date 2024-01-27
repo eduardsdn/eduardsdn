@@ -12,4 +12,5 @@
 Currently working on https://github.com/eduardsdn/telegram_bot 🤖,
 learning NodeJS and MongoDB along the way.
 
-Check out my repos!
+Check out my projects!
+<b> https://www.eduardsaadyan.com/ </b>
